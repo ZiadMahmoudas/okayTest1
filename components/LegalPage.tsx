@@ -48,7 +48,7 @@ export default function LegalPage({
         {notice && <div className="legalWarning"><i className="fa-solid fa-triangle-exclamation" /> <span>{notice}</span></div>}
         <div className="legalContactBox">
           <h2>للتواصل بشأن هذه السياسة</h2>
-          <p>يمكنك مراسلتنا على <a href="mailto:hello@sukoon-spa.com">hello@sukoon-spa.com</a> أو التواصل عبر واتساب على <a href="https://wa.me/xxxxxxxxxxxxxx" target="_blank" rel="noreferrer" dir="ltr">xxxxxxxxxxxxxxxxxxx0</a>.</p>
+          <p>يمكنك مراسلتنا على <a href="mailto:example@gggg">example@gggg</a> أو التواصل عبر واتساب على <a href="https://wa.me/xxxxxxxxxxxxxx" target="_blank" rel="noreferrer" dir="ltr">xxxxxxxxxxxxxxxxxxx0</a>.</p>
         </div>
       </article>
       <Footer />

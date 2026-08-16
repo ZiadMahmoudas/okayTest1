@@ -63,9 +63,9 @@ export default function Footer() {
               <i className="fa-solid fa-phone" />
               <bdi className="footerLtr footerPhoneNumber" dir="ltr">xxxxxxxxxxxxxxxxxxx0</bdi>
             </a>
-            <a className="footerContactRow" href="mailto:hello@sukoon-spa.com">
+            <a className="footerContactRow" href="mailto:example@gggg">
               <i className="fa-regular fa-envelope" />
-              <bdi className="footerLtr" dir="ltr">hello@sukoon-spa.com</bdi>
+              <bdi className="footerLtr" dir="ltr">example@gggg</bdi>
             </a>
             <div className="footerContactRow"><i className="fa-solid fa-location-dot" /><span>الرياض، المملكة العربية السعودية</span></div>
             <div className="footerContactRow"><i className="fa-regular fa-clock" /><span>يوميًا — بالمواعيد المسبقة</span></div>

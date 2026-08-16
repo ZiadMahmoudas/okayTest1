@@ -35,7 +35,7 @@ Search for and replace:
 
 - `xxxxxxxxxxxxxx`
 - `xxxxxxxxxxxxxxxxxxx0`
-- `hello@sukoon-spa.com`
+- `example@gggg`
 - `الرياض، المملكة العربية السعودية`
 - `سكون SPA`
 
