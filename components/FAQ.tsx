@@ -59,7 +59,7 @@ export default function FAQ() {
           <span className="eyebrow">أسئلة شائعة</span>
           <h2>قبل ما تحجز،<br/><em>خلّي كل شيء واضح.</em></h2>
           <p>جمعنا أهم الأسئلة التي قد تحتاجها قبل التواصل. ولو سؤالك غير موجود، واتساب أسرع طريق للوصول لنا.</p>
-          <a className="textLink" href="https://wa.me/966500000000" target="_blank" rel="noreferrer">
+          <a className="textLink" href="https://wa.me/xxxxxxxxxxxxxx" target="_blank" rel="noreferrer">
             اسألنا على واتساب <i className="fa-brands fa-whatsapp" />
           </a>
         </div>
