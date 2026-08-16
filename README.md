@@ -34,7 +34,7 @@ If Next was already running before changing `next.config.ts`, stop the terminal 
 Search for and replace:
 
 - `xxxxxxxxxxxxxx`
-- `+966 50 000 0000`
+- `xxxxxxxxxxxxxxxxxxx0`
 - `hello@sukoon-spa.com`
 - `الرياض، المملكة العربية السعودية`
 - `سكون SPA`

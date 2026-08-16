@@ -61,7 +61,7 @@ export default function Footer() {
             <h3>تواصل معنا</h3>
             <a className="footerContactRow" href="tel:+xxxxxxxxxxxxxx">
               <i className="fa-solid fa-phone" />
-              <bdi className="footerLtr footerPhoneNumber" dir="ltr">+966 50 000 0000</bdi>
+              <bdi className="footerLtr footerPhoneNumber" dir="ltr">xxxxxxxxxxxxxxxxxxx0</bdi>
             </a>
             <a className="footerContactRow" href="mailto:hello@sukoon-spa.com">
               <i className="fa-regular fa-envelope" />
